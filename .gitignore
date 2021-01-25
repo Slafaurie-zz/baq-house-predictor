@@ -1,0 +1,5 @@
+.vscode
+.ipynb_*
+__pycache__/
+*.pyc
+m2-data*
